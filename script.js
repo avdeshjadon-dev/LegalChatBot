@@ -5,7 +5,7 @@ if (typeof marked !== "undefined") {
   
 
 // Chat Application
-const API_KEY = "XXXXXXXXXXXXXXXXX"; // 🔐 Replace with your actual key
+const API_KEY = "API KEY HERE"; // 🔐 Replace with your actual key
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 // Store chat sessions
